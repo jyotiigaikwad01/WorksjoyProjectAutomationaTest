@@ -15,8 +15,6 @@
                 <configuration>
                     <source>15</source>
                     <target>15</target>
-                    <fork>true</fork>
-                    <executable>C:\Program Files (x86)\Java\jre1.8.0_291\bin</executable>
                 </configuration>
             </plugin>
         </plugins>
